@@ -1,0 +1,14 @@
+{
+  "thingName": "Dynamo_1000_1",
+  "thingArn": "arn:aws:iot:us-east-1:524057922460:thing/Dynamo_1000_1",
+  "region": "us-east-1",
+  "deviceCertificatePath": "./ae7e3b9bfd-certificate.pem.crt",
+  "privateKeyPath": "./ae7e3b9bfd-private.pem.key",
+  "rootCaPath": "./AmazonRootCA1.pem",
+  "endpoint": "a1riqpx8f7ufzp-ats.iot.us-east-1.amazonaws.com",
+  "credentialsEndpoint": "c2yb6wca0zhvwc.credentials.iot.us-east-1.amazonaws.com",
+  "roleAlias": "aws-iot-jobs-python",
+  "useWebsocket": "false",
+  "port": 8883,
+  "s3Bucket": "addverb-firmware"
+}
